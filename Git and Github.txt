@@ -1,6 +1,8 @@
 To check the configured username and user email in your Git configuration,
 
-"Add command here"
+"git config --global user.name 'username'
+git config --global user.email 'useremail'
+"
 
 To initialize new github repository,
 
